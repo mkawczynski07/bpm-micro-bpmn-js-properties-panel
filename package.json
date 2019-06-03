@@ -1,7 +1,7 @@
 {
-  "name": "bpmn-js-properties-panel",
+  "name": "bpm-micro-bpmn-js-properties-panel",
   "version": "0.30.0",
-  "description": "A simple properties panel for bpmn-js",
+  "description": "A simple properties panel for bpmn-js modified by bpm-micro team",
   "scripts": {
     "lint": "eslint .",
     "all": "run-s lint test build",
