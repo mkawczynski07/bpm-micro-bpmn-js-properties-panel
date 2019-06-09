@@ -1,11 +1,16 @@
-# bpmn-js-properties-panel
-
-[![Build Status](https://travis-ci.org/bpmn-io/bpmn-js-properties-panel.svg?branch=master)](https://travis-ci.org/bpmn-io/bpmn-js-properties-panel)
+# bpm-micro-bpmn-js-properties-panel
 
 A properties panel extension for [bpmn-js](https://github.com/bpmn-io/bpmn-js) that adds the ability to edit technical properties (generic and [Camunda](https://camunda.com)).
 
 [![bpmn-js-properties-panel screenshot](https://raw.githubusercontent.com/bpmn-io/bpmn-js-properties-panel/master/docs/screenshot.png "Screenshot of the bpmn-js modeler + properties panel")](https://github.com/bpmn-io/bpmn-js-examples/tree/master/properties-panel)
 
+## Info
+
+This is a modified version of bpmn-js-properties-panel. All changes are mady by bpm-micro team. 
+
+Features:
+
+* Possibility to edit message id
 
 ## Features
 
